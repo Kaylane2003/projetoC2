@@ -1,0 +1,1 @@
+Esse código é uma abordagem eficiente para gerar números aleatórios distintos e sem repetições, com um código limpo e direto, evitando a necessidade de verificações manuais de duplicatas. A combinação do Set e do do...while fornece uma maneira confiável e fácil de gerar conjuntos de números únicos em um intervalo específico.
